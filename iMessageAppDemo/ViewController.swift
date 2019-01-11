@@ -14,7 +14,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         
-        print("Hello this is pushpank")
+        print("this is pushpank")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
